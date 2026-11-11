@@ -1,7 +1,6 @@
 # test-repository
 **This my first repository**
 ``` javascript
-
-alert("Hello world")
-
+let i = 10;
+console.log(i);
 ```
