@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: darkslategray;
+}
+ul {
+    background-color: black;
+    width: 100px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
